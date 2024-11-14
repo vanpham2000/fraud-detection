@@ -9,9 +9,10 @@ I also create an api to make the model accessible for prediction, transforming i
 just download the file down
 
 install libray:
-
+```
 pandas 
 pytorch 
 Scikit-Learn
 Flask
 Pickle
+```
